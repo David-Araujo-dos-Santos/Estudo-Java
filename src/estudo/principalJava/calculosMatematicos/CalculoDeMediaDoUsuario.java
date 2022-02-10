@@ -17,5 +17,6 @@ public class CalculoDeMediaDoUsuario {
         numero3 = entrada.nextInt();
         media= (numero1+numero2+numero3)/3;
         System.out.printf("Media é igual ao (%d)+(%d)+(%d)=(%d)", numero1,numero2,numero3,media);
+
     }
 }
